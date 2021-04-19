@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ffb48b58-4316-45b9-ae4d-c4c28c49332d/resourceGroups/AmeyTest/providers/Microsoft.Web/sites/PhotoPortalPY36",
+    "appService.deploySubpath": "."
+}
